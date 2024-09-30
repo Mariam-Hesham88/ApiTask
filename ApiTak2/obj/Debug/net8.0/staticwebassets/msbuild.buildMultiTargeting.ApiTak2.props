@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiTak2.props" />
+</Project>
